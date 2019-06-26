@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+     <head>
+     	 <title>Abram, Hari</title>
+     </head>
+     <body>
+     	<header>
+     		<h1>Hari website</h1>
+     		<ul>
+     			<li><h5><a href="#personal">personal information</a></h5></li>
+     			<li><h5><a href="#media">Media saya</a></h5></li>
+     			<li><h5><a href="#jadwal">Jadwal saya</a></h5></li>
+     		</ul>
+     		<div id="media">
+     			<img src="kwkwkw.png" height="100" weight="300" alt="bunga mekar">
+     		</div>
